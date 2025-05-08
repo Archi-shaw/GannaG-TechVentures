@@ -19,7 +19,7 @@ export default function HomeLayout(){
         </ul>
       </nav>
             {/* right side - placeholder for content */}
-            <main className="w-3/4 p-4">
+            <main className="w-3/4 p-4 bg-gray-400">
                 {children}
             </main>
         </div>
